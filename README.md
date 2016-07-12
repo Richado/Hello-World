@@ -1,2 +1,4 @@
 # Hello-World
-add my first
+
+Hi,everybody!
+this is my first attempt to using GitHub.
